@@ -17,7 +17,7 @@
    input file:
      none
 
-   output file:
+   output file: 
      none
 
    compile (how to compile):
